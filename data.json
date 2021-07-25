@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Jhonatan",
+        "email": "jojo6868@gmail.com",
+        "cpf": "20202947790",
+        "tel": "38999365790"
+    },
+    {
+        "id": 2,
+        "name": "Gustavo Soares",
+        "email": "gustavoS@yahoo.com.br",
+        "cpf": "14522922378",
+        "tel": "38999166830"
+    },
+    {
+        "id": 3,
+        "name": "Valdemir Costa",
+        "email": "ValdCosta1515@yahoo.com.br",
+        "cpf": "50233386654",
+        "tel": "38998417751"
+    }
+]
