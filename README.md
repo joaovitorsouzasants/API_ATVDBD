@@ -10,5 +10,5 @@
 > POST: Use esse metodo para inserir um novo request, selecionando o formato JSON na ferramenta escolhida.\
 > PUT: Use esse metodo + id para modificar os dados atraves do id do funcionario, selecionando o formato JSON.\
 > DELETE: Utilize esse metodo + id para excluir um funcionario atraves do seu id.
-## Requisições disponíveis e como utilizá-las
-* As requisições disponiveis são os metodos GET, PUT, POST e DELETE e você pode utiliza-las apenas alterando-as no corpo da requisição do Insomnia.
+## Requisições disponíveis
+* As requisições utilizadas são os metodos GET, PUT, POST e DELETE.
